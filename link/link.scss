@@ -1,0 +1,17 @@
+.link {
+	/* 3 Typography */
+	color: blue;
+	text-decoration: none;
+}
+.link:hover {
+	/* 3 Typography */
+	text-decoration: underline;
+}
+.link:focus {
+	/* 4 Visual */
+	outline: 2px solid #fc0;
+}
+.link:active {
+	/* 3 Typography */
+	color: gray;
+}
